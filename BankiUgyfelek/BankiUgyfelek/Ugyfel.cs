@@ -89,7 +89,7 @@ namespace BankiUgyfelek
 
             
 
-        //Adott esetben a hitelfelvétel feltétele az, hogy az ügyfélnek idősebbnek kell lennie 18-nál
+        //Adott esetben a hitelfelvétel feltétele az, hogy az ügyfélnek idősebbnek kell lennie 24-nál
         //ebből aódódan a számlatípusának érvényesnek kell lennie,
         //a biztos anyagi hátteret pedig a számlán található pénzösszeg mennyisége határozza meg
         public bool lehetEHitel() 

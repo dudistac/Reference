@@ -1,0 +1,6 @@
+E:\C#\BankiUgyfelek\BankiUgyfelek\obj\Debug\BankiUgyfelek.csprojAssemblyReference.cache
+E:\C#\BankiUgyfelek\BankiUgyfelek\bin\Debug\BankiUgyfelek.exe.config
+E:\C#\BankiUgyfelek\BankiUgyfelek\bin\Debug\BankiUgyfelek.exe
+E:\C#\BankiUgyfelek\BankiUgyfelek\bin\Debug\BankiUgyfelek.pdb
+E:\C#\BankiUgyfelek\BankiUgyfelek\obj\Debug\BankiUgyfelek.exe
+E:\C#\BankiUgyfelek\BankiUgyfelek\obj\Debug\BankiUgyfelek.pdb
